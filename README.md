@@ -13,4 +13,4 @@ The database compiles news-reported natural hazard events and associated impacts
 
 
 Reference: 
-Doley, R., Chen, C.H., Xia, X., Lin, C.Y., Ferranti, E.J. and Quinn, A.D., 2026. A New National Scale Inventory of Natural Hazards and Transport Disruptions in Taiwan Derived from News Media Reports. International Journal of Disaster Risk Reduction, p.106414.https://doi.org/10.1016/j.ijdrr.2026.106414 
+Doley, R., Chen, C.H., Xia, X., Lin, C.Y., Ferranti, E.J. and Quinn, A.D., 2026. Network-wide mapping of multi-hazard transport disruptions across Taiwan using news media reports. International Journal of Disaster Risk Reduction, p.106414.https://doi.org/10.1016/j.ijdrr.2026.106414 
