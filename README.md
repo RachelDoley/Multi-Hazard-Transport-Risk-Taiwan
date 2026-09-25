@@ -1,7 +1,15 @@
 # Multi-Hazard-Transport-Risk-Taiwan
 
-National Database for Multi Hazard Risk sourced from news media. 
+This repository contains a national-scale database of natural hazards and associated transport disruptions in Taiwan, derived from online news media reports. Also included are supporting datasets, processing resources and outputs used to develop the inventory presented in Doley et al (2026).
 
+Repository Contents: 
+ - Multi-Hazard and transport impact news derived database for Taiwan (Shapefile Folder)
+ - Notebook file for sourcing and processing the news media
+ - A Search terms file used within the notebook file to identify relevant articles 
+
+
+Database Overview: 
+The database compiles news-reported natural hazard events and associated impacts on transport infrastructure across Taiwan. Records include information on hazard type, location, affected transport infrastructure, reported disruption and source information.
 
 
 Reference: 
